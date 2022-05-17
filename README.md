@@ -1,4 +1,4 @@
 # hello-world
 My First Repository on GitHub
 
-I Love : Coffee :  : Food :, and : Coding :.
+I Love : coffee :  : food :, and : coding :.
